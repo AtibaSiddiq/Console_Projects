@@ -1,0 +1,5 @@
+Utilities(Electricity, Water, Gas)			999129009
+Utilities(Electricity, Water, Gas)			2889198
+Transportation(Fuel, Public Transportation)			9
+Transportation(Fuel, Public Transportation)			9
+Transportation(Fuel, Public Transportation)			1

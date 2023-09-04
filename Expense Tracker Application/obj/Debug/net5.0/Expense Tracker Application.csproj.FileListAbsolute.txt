@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\bin\Debug\net5.0\Expense Tracker Application.exe
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\bin\Debug\net5.0\Expense Tracker Application.deps.json
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\bin\Debug\net5.0\Expense Tracker Application.runtimeconfig.json
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\bin\Debug\net5.0\Expense Tracker Application.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\bin\Debug\net5.0\Expense Tracker Application.dll
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\bin\Debug\net5.0\ref\Expense Tracker Application.dll
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\bin\Debug\net5.0\Expense Tracker Application.pdb
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\obj\Debug\net5.0\Expense Tracker Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\obj\Debug\net5.0\Expense Tracker Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\obj\Debug\net5.0\Expense Tracker Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\obj\Debug\net5.0\Expense Tracker Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\obj\Debug\net5.0\Expense Tracker Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\obj\Debug\net5.0\Expense Tracker Application.dll
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\obj\Debug\net5.0\ref\Expense Tracker Application.dll
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\obj\Debug\net5.0\Expense Tracker Application.pdb
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Expense Tracker Application\obj\Debug\net5.0\Expense Tracker Application.genruntimeconfig.cache

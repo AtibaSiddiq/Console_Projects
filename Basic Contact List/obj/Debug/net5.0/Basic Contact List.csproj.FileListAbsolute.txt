@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\bin\Debug\net5.0\Basic Contact List.exe
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\bin\Debug\net5.0\Basic Contact List.deps.json
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\bin\Debug\net5.0\Basic Contact List.runtimeconfig.json
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\bin\Debug\net5.0\Basic Contact List.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\bin\Debug\net5.0\Basic Contact List.dll
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\bin\Debug\net5.0\ref\Basic Contact List.dll
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\bin\Debug\net5.0\Basic Contact List.pdb
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\obj\Debug\net5.0\Basic Contact List.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\obj\Debug\net5.0\Basic Contact List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\obj\Debug\net5.0\Basic Contact List.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\obj\Debug\net5.0\Basic Contact List.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\obj\Debug\net5.0\Basic Contact List.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\obj\Debug\net5.0\Basic Contact List.dll
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\obj\Debug\net5.0\ref\Basic Contact List.dll
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\obj\Debug\net5.0\Basic Contact List.pdb
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\ConsoleApps\Basic Contact List\obj\Debug\net5.0\Basic Contact List.genruntimeconfig.cache

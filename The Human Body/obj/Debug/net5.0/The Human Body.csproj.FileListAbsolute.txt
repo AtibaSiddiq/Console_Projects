@@ -1,0 +1,32 @@
+C:\Users\DELL\Desktop\C#Class\The Human Body\bin\Debug\net5.0\The Human Body.exe
+C:\Users\DELL\Desktop\C#Class\The Human Body\bin\Debug\net5.0\The Human Body.deps.json
+C:\Users\DELL\Desktop\C#Class\The Human Body\bin\Debug\net5.0\The Human Body.runtimeconfig.json
+C:\Users\DELL\Desktop\C#Class\The Human Body\bin\Debug\net5.0\The Human Body.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\C#Class\The Human Body\bin\Debug\net5.0\The Human Body.dll
+C:\Users\DELL\Desktop\C#Class\The Human Body\bin\Debug\net5.0\ref\The Human Body.dll
+C:\Users\DELL\Desktop\C#Class\The Human Body\bin\Debug\net5.0\The Human Body.pdb
+C:\Users\DELL\Desktop\C#Class\The Human Body\obj\Debug\net5.0\The Human Body.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#Class\The Human Body\obj\Debug\net5.0\The Human Body.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#Class\The Human Body\obj\Debug\net5.0\The Human Body.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#Class\The Human Body\obj\Debug\net5.0\The Human Body.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#Class\The Human Body\obj\Debug\net5.0\The Human Body.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#Class\The Human Body\obj\Debug\net5.0\The Human Body.dll
+C:\Users\DELL\Desktop\C#Class\The Human Body\obj\Debug\net5.0\ref\The Human Body.dll
+C:\Users\DELL\Desktop\C#Class\The Human Body\obj\Debug\net5.0\The Human Body.pdb
+C:\Users\DELL\Desktop\C#Class\The Human Body\obj\Debug\net5.0\The Human Body.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\bin\Debug\net5.0\The Human Body.exe
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\bin\Debug\net5.0\The Human Body.deps.json
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\bin\Debug\net5.0\The Human Body.runtimeconfig.json
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\bin\Debug\net5.0\The Human Body.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\bin\Debug\net5.0\The Human Body.dll
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\bin\Debug\net5.0\ref\The Human Body.dll
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\bin\Debug\net5.0\The Human Body.pdb
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\obj\Debug\net5.0\The Human Body.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\obj\Debug\net5.0\The Human Body.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\obj\Debug\net5.0\The Human Body.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\obj\Debug\net5.0\The Human Body.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\obj\Debug\net5.0\The Human Body.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\obj\Debug\net5.0\The Human Body.dll
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\obj\Debug\net5.0\ref\The Human Body.dll
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\obj\Debug\net5.0\The Human Body.pdb
+C:\Users\DELL\Desktop\Coding\C#Class {Siddiq}\The Human Body\obj\Debug\net5.0\The Human Body.genruntimeconfig.cache
